@@ -1,1 +1,1 @@
-The lab focused on excersises help teaches the main foundation of Javascript: funcitons, objects, and Prototype chain. The lab moves from basic syntax to looking at multi-level inheritance systems, examples of real world data structures.
+The lab focused on excersises that help teaches the main foundation of Javascript: functions, objects, and Prototype chain. The lab moves from basic syntax to looking at multi-level inheritance systems, examples of real world data structures.
